@@ -28,9 +28,9 @@ The second screen appears on swiping to the right. This section is intended for 
 
 ## Components
 - Android codebase in Java 
-- Firebase Authentication   (authenticate requests)
-- Firebase Database         (Realtime database)
-- Firebase Storage          (Mass Storage)
+- Firebase Authentication    (authenticate requests)
+- Firebase Database          (Realtime database)
+- Firebase Storage           (Mass Storage)
 
 ## Installation (Android app configuration)
 - Go to your Firebase console, setup this project, select Android app, add the package name of this app and download <b>google-services.json</b>.
